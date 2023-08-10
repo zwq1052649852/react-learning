@@ -1,0 +1,1744 @@
+{
+  "commit_ad_data": [
+    {
+      "ad": {
+        "media_account_id": 12402605719,
+        "aweme_id": "62678827549",
+        "marketing_goal": "VIDEO_PROM_GOODS",
+        "lab_ad_type": "LAB_AD",
+        "campaign_scene": "DAILY_SALE",
+        "delivery_setting": {
+          "smart_bid_type": "SMART_BID_CUSTOM",
+          "external_action": "AD_CONVERT_TYPE_SHOPPING",
+          "budget": "300",
+          "cpa_bid": "0.2",
+          "budget_mode": "BUDGET_MODE_DAY",
+          "video_schedule_type": "SCHEDULE_FROM_NOW",
+          "schedule_time": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "qcpx_mode": "QCPX_MODE_OFF",
+          "flow_control_mode": "FLOW_CONTROL_MODE_FAST",
+          "enable_auto_pause": 0
+        },
+        "audience": {
+          "district": "NONE",
+          "city": [],
+          "location_type": "CURRENT",
+          "gender": "GENDER_MALE",
+          "age": [
+            "AGE_BETWEEN_18_23",
+            "AGE_BETWEEN_24_30"
+          ],
+          "aweme_mode": "UNLIMITED",
+          "auto_extend_enabled": 1,
+          "auto_extend_targets": [
+            "REGION",
+            "GENDER",
+            "AGE",
+            "CUSTOM_AUDIENCE"
+          ],
+          "platform": [
+            "ANDROID"
+          ],
+          "interest_action_mode": "[]",
+          "ac": [
+            "2G"
+          ],
+          "retargeting_tags_include": [],
+          "retargeting_tags_exclude": [],
+          "live_platform_tags": [],
+          "new_customer": "NONE",
+          "media_account_id": "",
+          "exclude_limited_region": true,
+          "district_type": false,
+          "audience_mode": "CUSTOM"
+        },
+        "cl_audience_type": "custom",
+        "cl_audience_id": 186104,
+        "cl_ad_keywords_id": 455507,
+        "first_industry_id": 1901,
+        "second_industry_id": 190104,
+        "third_industry_id": 19010402,
+        "ad_keywords": [
+          "111111"
+        ],
+        "name": "qq-抖音号视频-图片-推商品-0731-155937-1",
+        "mobgi_unique_fk": "776ffb03-6b24-4ba3-8040-227ad407e87b",
+        "product_ids": [
+          "3455031160130897280"
+        ],
+        "creative_material_mode": "PROGRAMMATIC_CREATIVE",
+        "programmatic_creative_media_list": [
+          {
+            "image_mode": "LARGE_VERTICAL",
+            "image_ids": [
+              "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7"
+            ]
+          }
+        ],
+        "programmatic_creative_title_list": [
+          {
+            "title": "抖音号测试标题1",
+            "dynamic_words": [],
+            "title_type": "CUSTOM"
+          },
+          {
+            "title": "抖音号测试标题2",
+            "dynamic_words": [],
+            "title_type": "CUSTOM"
+          },
+          {
+            "title": "抖音号测试标题3",
+            "dynamic_words": [],
+            "title_type": "CUSTOM"
+          },
+          {
+            "title": "抖音号测试标题4",
+            "dynamic_words": [],
+            "title_type": "CUSTOM"
+          }
+        ],
+        "programmatic_creative_card": {
+          "promotion_card_title": "视频同款商品",
+          "promotion_card_selling_points": [
+            "商家倾情推荐"
+          ],
+          "promotion_card_image_id": "web.business.image/202307245d0dca25e2b2ffad40119af6",
+          "promotion_card_action_button": "查看详情",
+          "promotion_card_button_smart_optimization": 0,
+          "cl_product_image_width": 288,
+          "cl_product_image_height": 288
+        },
+        "creative_auto_generate": 1,
+        "is_homepage_hide": "1",
+        "creative_list": [
+          {
+            "image_mode": "VIDEO_VERTICAL",
+            "video_material": {
+              "aweme_item_id": "7129365860489104654",
+              "width": 1080,
+              "height": 1920,
+              "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+              "video_id": "7197923652896555046"
+            },
+            "title_material": {
+              "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+              "dynamic_words": []
+            }
+          }
+        ],
+        "is_basic": 0,
+        "exitsName": false
+      }
+    }
+  ],
+  "commit_rule": {
+    "rule_type": 1,
+    "start_commit_ad_time": "2023-07-31 16:10:52",
+    "commit_interval": 0,
+    "commit_campaign_num": "",
+    "task_name": "新建广告_暂停：仟得-1号-自运营-逸凡（清清2）-立即提交-0731-160053",
+    "selectType": "1"
+  },
+  "media_type": "qianchuan",
+  "cl_app_id": "3455031160130897280",
+  "config_data": {
+    "config_area": {
+      "commonParams": {
+        "company": "浙江仁之初健康产业有限公司",
+        "media_account_ids": [
+          12402605719
+        ],
+        "aweme_id": "62678827549",
+        "product_id": "3455031160130897280",
+        "marketing_goal": "VIDEO_PROM_GOODS",
+        "marketing_scene": "FEED",
+        "promotion_way": "STANDARD",
+        "title_type": "auto",
+        "keywords_type": "program",
+        "audience_type": "custom",
+        "campaign_scene": "DAILY_SALE",
+        "lab_ad_type": "LAB_AD",
+        "promotion_target": "FAST"
+      },
+      "adFormSaving": {
+        "delivery_setting": {
+          "smart_bid_type": "SMART_BID_CUSTOM",
+          "external_action": "AD_CONVERT_TYPE_SHOPPING",
+          "budget": "300",
+          "cpa_bid": "0.2",
+          "auto_manage_strategy_cmd": 0,
+          "budget_mode": "BUDGET_MODE_DAY",
+          "video_schedule_type": "SCHEDULE_FROM_NOW",
+          "schedule_time": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "qcpx_mode": "QCPX_MODE_OFF"
+        },
+        "name": "<营销目标>-<日期>-<时间>-<编号>",
+        "is_homepage_hide": "1",
+        "promotion_card": {
+          "product_image_id": "web.business.image/202307245d0dca25e2b2ffad40119af6",
+          "product_description": "视频同款商品",
+          "product_selling_points": [
+            "商家倾情推荐"
+          ],
+          "enable_personal_action": 0,
+          "call_to_action": "查看详情",
+          "enable_store_pack": false,
+          "cl_material_id": "",
+          "product_image_width": 288,
+          "product_image_height": 288,
+          "image_url": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/fDVfnENI_m_23ba24f7e30796e49f4398e3d20351cd_sx_420320_www800-800"
+        },
+        "bid_mode": "BID_FIXED",
+        "min_bid": "",
+        "max_bid": "",
+        "start_num": 1
+      },
+      "audienceFormSaving": {
+        "config": {
+          "open_account_diff": false
+        },
+        "list": [
+          {
+            "id": 186104,
+            "name": "商品托管0612",
+            "promotion_way": "LAB_AD",
+            "description": "",
+            "owner_user_id": 10000000001,
+            "create_user_id": 10000000001,
+            "media_account_id": null,
+            "district_type": 0,
+            "create_time": "2023-06-12 15:29:00",
+            "update_time": "2023-06-12 15:29:00",
+            "stat_cost": "0.00",
+            "pay_order_count": "0",
+            "pay_order_amount": "0.00",
+            "pay_order_roi": "0.00",
+            "ctr": "0.00%",
+            "click_cnt": "0",
+            "show_cnt": "0",
+            "prepay_order_count": "0",
+            "prepay_order_amount": "0.00",
+            "prepay_and_pay_order_roi": "0.00",
+            "indirect_order_pay_gmv_7days": "0",
+            "pay_order_coupon_amount": "0",
+            "all_order_pay_roi_7days": "0",
+            "ad_num": 158,
+            "media_project_id": null,
+            "main_user_id": 10000000001,
+            "signature": "26b06414d078962eaf1436861a62e69b",
+            "update_user_id": 10000000001,
+            "exclude_limited_region": 1,
+            "source": 1,
+            "orientation_id": 0,
+            "advertiser_id": "-",
+            "company": "-",
+            "has_offline_tag": 0,
+            "audience": {
+              "district": "NONE",
+              "city": [],
+              "location_type": "CURRENT",
+              "gender": "GENDER_MALE",
+              "age": [
+                "AGE_BETWEEN_18_23",
+                "AGE_BETWEEN_24_30"
+              ],
+              "aweme_mode": "UNLIMITED",
+              "aweme_fan_behaviors": [],
+              "aweme_fan_behaviors_days": "",
+              "aweme_fan_categories": [],
+              "aweme_fan_accounts": [],
+              "auto_extend_enabled": 1,
+              "auto_extend_targets": [
+                "REGION",
+                "GENDER",
+                "AGE",
+                "CUSTOM_AUDIENCE"
+              ],
+              "platform": [
+                "ANDROID"
+              ],
+              "smart_interest_action": "UNLIMITED",
+              "action_scene": [],
+              "interest_action_mode": "[]",
+              "action_days": 0,
+              "action_categories": [],
+              "action_words": [],
+              "interest_categories": [],
+              "interest_words": [],
+              "ac": [
+                "2G"
+              ],
+              "retargeting_tags_include": [],
+              "retargeting_tags_exclude": [],
+              "live_platform_tags": [],
+              "new_customer": "NONE",
+              "media_account_id": "",
+              "exclude_limited_region": true,
+              "district_type": false
+            },
+            "advertiser_nick": "-",
+            "category": "--",
+            "category_id": "",
+            "create_user_name": "devin.lu1-企业管理员",
+            "audienceText": {
+              "gender": "男",
+              "age": "18-23岁、24-30岁",
+              "area": "不限",
+              "smart_interest_action": "UNLIMITED",
+              "platform": "ANDROID",
+              "ac": "2G",
+              "auto_extend_targets": "地域、性别、年龄、更多人群-自定义人群",
+              "aweme_fan": "不限"
+            }
+          }
+        ],
+        "accounts": {
+          "12402605719": [
+            {
+              "id": 186104,
+              "name": "商品托管0612",
+              "promotion_way": "LAB_AD",
+              "description": "",
+              "owner_user_id": 10000000001,
+              "create_user_id": 10000000001,
+              "media_account_id": null,
+              "district_type": 0,
+              "create_time": "2023-06-12 15:29:00",
+              "update_time": "2023-06-12 15:29:00",
+              "stat_cost": "0.00",
+              "pay_order_count": "0",
+              "pay_order_amount": "0.00",
+              "pay_order_roi": "0.00",
+              "ctr": "0.00%",
+              "click_cnt": "0",
+              "show_cnt": "0",
+              "prepay_order_count": "0",
+              "prepay_order_amount": "0.00",
+              "prepay_and_pay_order_roi": "0.00",
+              "indirect_order_pay_gmv_7days": "0",
+              "pay_order_coupon_amount": "0",
+              "all_order_pay_roi_7days": "0",
+              "ad_num": 158,
+              "media_project_id": null,
+              "main_user_id": 10000000001,
+              "signature": "26b06414d078962eaf1436861a62e69b",
+              "update_user_id": 10000000001,
+              "exclude_limited_region": 1,
+              "source": 1,
+              "orientation_id": 0,
+              "advertiser_id": "-",
+              "company": "-",
+              "has_offline_tag": 0,
+              "audience": {
+                "district": "NONE",
+                "city": [],
+                "location_type": "CURRENT",
+                "gender": "GENDER_MALE",
+                "age": [
+                  "AGE_BETWEEN_18_23",
+                  "AGE_BETWEEN_24_30"
+                ],
+                "aweme_mode": "UNLIMITED",
+                "aweme_fan_behaviors": [],
+                "aweme_fan_behaviors_days": "",
+                "aweme_fan_categories": [],
+                "aweme_fan_accounts": [],
+                "auto_extend_enabled": 1,
+                "auto_extend_targets": [
+                  "REGION",
+                  "GENDER",
+                  "AGE",
+                  "CUSTOM_AUDIENCE"
+                ],
+                "platform": [
+                  "ANDROID"
+                ],
+                "smart_interest_action": "UNLIMITED",
+                "action_scene": [],
+                "interest_action_mode": "[]",
+                "action_days": 0,
+                "action_categories": [],
+                "action_words": [],
+                "interest_categories": [],
+                "interest_words": [],
+                "ac": [
+                  "2G"
+                ],
+                "retargeting_tags_include": [],
+                "retargeting_tags_exclude": [],
+                "live_platform_tags": [],
+                "new_customer": "NONE",
+                "media_account_id": "",
+                "exclude_limited_region": true,
+                "district_type": false
+              },
+              "advertiser_nick": "-",
+              "category": "--",
+              "category_id": "",
+              "create_user_name": "devin.lu1-企业管理员",
+              "audienceText": {
+                "gender": "男",
+                "age": "18-23岁、24-30岁",
+                "area": "不限",
+                "smart_interest_action": "UNLIMITED",
+                "platform": "ANDROID",
+                "ac": "2G",
+                "auto_extend_targets": "地域、性别、年龄、更多人群-自定义人群",
+                "aweme_fan": "不限"
+              }
+            }
+          ]
+        }
+      },
+      "creativeMaterialsSaving": {
+        "list": [
+          {
+            "collapse": false,
+            "isValidate": true,
+            "isPassValidate": true,
+            "tabName": "images",
+            "videos": [
+              {
+                "active": true,
+                "mounted": true,
+                "uploaded": true,
+                "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                "titleError": "",
+                "dynamic_words": [],
+                "type": "video",
+                "posterChange": false,
+                "data": {
+                  "id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                  "material_id": "7129365860489104654",
+                  "material_type": "video",
+                  "qianchuan_material_id": "7197923652896555046",
+                  "video_id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                  "material_name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "file_uri": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                  "thumb": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "thumbnail_uri": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "poster_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "source": "AD_SITE",
+                  "is_douyin_video": true,
+                  "aweme_item_id": "7129365860489104654",
+                  "comment_cnt": 100,
+                  "duration": 21,
+                  "height": 1920,
+                  "is_recommend": 1,
+                  "like_cnt": 778,
+                  "share_cnt": 57,
+                  "url": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                  "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "view_cnt": 179710,
+                  "width": 1080,
+                  "is_inefficient": 0,
+                  "is_original": 0,
+                  "is_high": 0,
+                  "test_material_id": "7197923652896555046",
+                  "materia_front_sort": 1
+                },
+                "account_data": {
+                  "12402605719": {
+                    "id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                    "material_id": "7129365860489104654",
+                    "material_type": "video",
+                    "qianchuan_material_id": "7197923652896555046",
+                    "video_id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                    "material_name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                    "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                    "file_uri": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                    "thumb": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                    "thumbnail_uri": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                    "poster_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                    "name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                    "source": "AD_SITE",
+                    "is_douyin_video": true,
+                    "aweme_item_id": "7129365860489104654",
+                    "comment_cnt": 100,
+                    "duration": 21,
+                    "height": 1920,
+                    "is_recommend": 1,
+                    "like_cnt": 778,
+                    "share_cnt": 57,
+                    "url": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                    "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                    "view_cnt": 179710,
+                    "width": 1080,
+                    "is_inefficient": 0,
+                    "is_original": 0,
+                    "is_high": 0,
+                    "test_material_id": "7197923652896555046",
+                    "materia_front_sort": 1
+                  }
+                },
+                "material": {
+                  "id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                  "material_id": "7129365860489104654",
+                  "material_type": "video",
+                  "qianchuan_material_id": "7197923652896555046",
+                  "video_id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                  "material_name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "file_uri": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                  "thumb": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "thumbnail_uri": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "poster_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "source": "AD_SITE",
+                  "is_douyin_video": true,
+                  "aweme_item_id": "7129365860489104654",
+                  "comment_cnt": 100,
+                  "duration": 21,
+                  "height": 1920,
+                  "is_recommend": 1,
+                  "like_cnt": 778,
+                  "share_cnt": 57,
+                  "url": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                  "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "view_cnt": 179710,
+                  "width": 1080,
+                  "is_inefficient": 0,
+                  "is_original": 0,
+                  "is_high": 0,
+                  "test_material_id": "7197923652896555046",
+                  "materia_front_sort": 1
+                }
+              }
+            ],
+            "vertical_video": [],
+            "images": [
+              {
+                "active": true,
+                "mounted": true,
+                "uploaded": true,
+                "title": "",
+                "titleError": "",
+                "dynamic_words": [],
+                "type": "image",
+                "posterChange": false,
+                "data": {
+                  "id": 400194132,
+                  "pk": "cf8592dd2efeebfd6215850ccc42613c",
+                  "main_user_id": 10000000001,
+                  "advertiser_id": 1748171980774413,
+                  "qianchuan_material_id": "7238847659195252739",
+                  "qianchuan_material_str_id": "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "material_type": "image",
+                  "signature": "d73c0371e53f3cfcc06862a97e1b9b7a",
+                  "size": 84546,
+                  "width": 1080,
+                  "height": 1920,
+                  "format": "",
+                  "bit_rate": 0,
+                  "duration": 0,
+                  "source": "E_COMMERCE",
+                  "filename": "7238847659195252739",
+                  "update_time": "2023-07-31 10:07:16",
+                  "creative_user_id": 0,
+                  "make_user_id": 0,
+                  "shoot_user_id": "[]",
+                  "performer_user_id": "[]",
+                  "dub_user_id": "[]",
+                  "screencap_user_id": "[]",
+                  "sync_time": "2023-07-31 10:07:16",
+                  "aspect_ratio": "0.56",
+                  "tags": "[]",
+                  "label_ids": "",
+                  "is_inefficient": 0,
+                  "is_original": 0,
+                  "is_high": 0,
+                  "exist_material_id": 0,
+                  "exist_material_name": "",
+                  "thumbnail_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "is_local_exist": 0,
+                  "file_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "media_account_id": 12402605719,
+                  "create_time": "2023-07-27 20:10:25",
+                  "file_direction": 1,
+                  "material_id": "7238847659195252739",
+                  "material_name": "7238847659195252739",
+                  "material_source": "media",
+                  "poster_url": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "materia_front_sort": 3,
+                  "url": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7"
+                },
+                "account_data": {
+                  "12402605719": {
+                    "id": 400194132,
+                    "pk": "cf8592dd2efeebfd6215850ccc42613c",
+                    "main_user_id": 10000000001,
+                    "advertiser_id": 1748171980774413,
+                    "qianchuan_material_id": "7238847659195252739",
+                    "qianchuan_material_str_id": "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                    "material_type": "image",
+                    "signature": "d73c0371e53f3cfcc06862a97e1b9b7a",
+                    "size": 84546,
+                    "width": 1080,
+                    "height": 1920,
+                    "format": "",
+                    "bit_rate": 0,
+                    "duration": 0,
+                    "source": "E_COMMERCE",
+                    "filename": "7238847659195252739",
+                    "update_time": "2023-07-31 10:07:16",
+                    "creative_user_id": 0,
+                    "make_user_id": 0,
+                    "shoot_user_id": "[]",
+                    "performer_user_id": "[]",
+                    "dub_user_id": "[]",
+                    "screencap_user_id": "[]",
+                    "sync_time": "2023-07-31 10:07:16",
+                    "aspect_ratio": "0.56",
+                    "tags": "[]",
+                    "label_ids": "",
+                    "is_inefficient": 0,
+                    "is_original": 0,
+                    "is_high": 0,
+                    "exist_material_id": 0,
+                    "exist_material_name": "",
+                    "thumbnail_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                    "is_local_exist": 0,
+                    "file_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                    "media_account_id": 12402605719,
+                    "create_time": "2023-07-27 20:10:25",
+                    "file_direction": 1,
+                    "material_id": "7238847659195252739",
+                    "material_name": "7238847659195252739",
+                    "material_source": "media",
+                    "poster_url": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                    "materia_front_sort": 3,
+                    "url": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7"
+                  }
+                },
+                "material": {
+                  "id": 400194132,
+                  "pk": "cf8592dd2efeebfd6215850ccc42613c",
+                  "main_user_id": 10000000001,
+                  "advertiser_id": 1748171980774413,
+                  "qianchuan_material_id": "7238847659195252739",
+                  "qianchuan_material_str_id": "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "material_type": "image",
+                  "signature": "d73c0371e53f3cfcc06862a97e1b9b7a",
+                  "size": 84546,
+                  "width": 1080,
+                  "height": 1920,
+                  "format": "",
+                  "bit_rate": 0,
+                  "duration": 0,
+                  "source": "E_COMMERCE",
+                  "filename": "7238847659195252739",
+                  "update_time": "2023-07-31 10:07:16",
+                  "creative_user_id": 0,
+                  "make_user_id": 0,
+                  "shoot_user_id": "[]",
+                  "performer_user_id": "[]",
+                  "dub_user_id": "[]",
+                  "screencap_user_id": "[]",
+                  "sync_time": "2023-07-31 10:07:16",
+                  "aspect_ratio": "0.56",
+                  "tags": "[]",
+                  "label_ids": "",
+                  "is_inefficient": 0,
+                  "is_original": 0,
+                  "is_high": 0,
+                  "exist_material_id": 0,
+                  "exist_material_name": "",
+                  "thumbnail_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "is_local_exist": 0,
+                  "file_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "media_account_id": 12402605719,
+                  "create_time": "2023-07-27 20:10:25",
+                  "file_direction": 1,
+                  "material_id": "7238847659195252739",
+                  "material_name": "7238847659195252739",
+                  "material_source": "media",
+                  "poster_url": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "materia_front_sort": 3
+                }
+              }
+            ],
+            "commodity_cards": []
+          }
+        ],
+        "config": {
+          "creative_material_mode": "PROGRAMMATIC_CREATIVE",
+          "creative_auto_generate": 1,
+          "add_title_method": "AUTO",
+          "video_limit": 1,
+          "video_locked": false,
+          "vertical_video_locked": false,
+          "vertical_video_limit": 0,
+          "image_limit": 1,
+          "image_locked": false,
+          "enableAutoManage": 0,
+          "commodity_card_limit": 0,
+          "commodity_card_locked": false,
+          "disabled_creative_mode": false
+        }
+      },
+      "textCreativeSaving": {
+        "list": [
+          {
+            "title_package_id": 400058506,
+            "title_package_name": "抖音",
+            "owner_user_id": 10000000001,
+            "main_user_id": 10000000001,
+            "is_delete": 0,
+            "create_user_id": 10000000001,
+            "update_user_id": 0,
+            "create_time": "2023-07-31 14:58:48",
+            "update_time": "0000-00-00 00:00:00",
+            "title_type": "CUSTOM",
+            "stat_cost": "0.00",
+            "pay_order_count": "0",
+            "pay_order_amount": "0.00",
+            "ctr": "0.00%",
+            "pay_order_roi": "0",
+            "prepay_order_count": "0",
+            "prepay_order_amount": "0.00",
+            "prepay_and_pay_order_roi": "0",
+            "indirect_order_pay_gmv_7days": "0",
+            "pay_order_coupon_amount": "0",
+            "all_order_pay_roi_7days": "0",
+            "ad_count": "0",
+            "with_dynamic_words": 0,
+            "titles": [
+              {
+                "title_id": 402381001,
+                "title": "抖音号测试标题1",
+                "dynamic_words": [],
+                "title_md5": "1929fb79eca98824ff39acdaee33bd3b",
+                "category": "",
+                "tag": "",
+                "owner_user_id": 10000000001,
+                "main_user_id": 10000000001,
+                "is_delete": 0,
+                "create_user_id": 10000000001,
+                "update_user_id": 10000000001,
+                "create_time": "2023-07-31 14:58:48",
+                "update_time": "2023-07-31 14:58:48",
+                "title_type": "CUSTOM",
+                "title_package_id": 400058506
+              },
+              {
+                "title_id": 402381002,
+                "title": "抖音号测试标题2",
+                "dynamic_words": [],
+                "title_md5": "1dadb6db64652b65cdcf300091cba84e",
+                "category": "",
+                "tag": "",
+                "owner_user_id": 10000000001,
+                "main_user_id": 10000000001,
+                "is_delete": 0,
+                "create_user_id": 10000000001,
+                "update_user_id": 10000000001,
+                "create_time": "2023-07-31 14:58:48",
+                "update_time": "2023-07-31 14:58:48",
+                "title_type": "CUSTOM",
+                "title_package_id": 400058506
+              },
+              {
+                "title_id": 402381003,
+                "title": "抖音号测试标题3",
+                "dynamic_words": [],
+                "title_md5": "4c01d5000a881350aebf5940d701c88c",
+                "category": "",
+                "tag": "",
+                "owner_user_id": 10000000001,
+                "main_user_id": 10000000001,
+                "is_delete": 0,
+                "create_user_id": 10000000001,
+                "update_user_id": 10000000001,
+                "create_time": "2023-07-31 14:58:48",
+                "update_time": "2023-07-31 14:58:48",
+                "title_type": "CUSTOM",
+                "title_package_id": 400058506
+              },
+              {
+                "title_id": 402381004,
+                "title": "抖音号测试标题4",
+                "dynamic_words": [],
+                "title_md5": "0ce4b553e46e425218551e18e5e43c4b",
+                "category": "",
+                "tag": "",
+                "owner_user_id": 10000000001,
+                "main_user_id": 10000000001,
+                "is_delete": 0,
+                "create_user_id": 10000000001,
+                "update_user_id": 10000000001,
+                "create_time": "2023-07-31 14:58:48",
+                "update_time": "2023-07-31 14:58:48",
+                "title_type": "CUSTOM",
+                "title_package_id": 400058506
+              }
+            ]
+          }
+        ],
+        "config": {
+          "creative_title_max": 10,
+          "isRandomTitle": false
+        }
+      },
+      "keywordsCreativeSaving": {
+        "list": [
+          {
+            "id": 455507,
+            "name": "有分类-功能机",
+            "first_industry_id": 1901,
+            "media_project_id": 0,
+            "second_industry_id": 190104,
+            "third_industry_id": 19010402,
+            "third_industry_name": "功能机",
+            "ad_keywords": [
+              "111111"
+            ],
+            "ad_keywords_md5": "2857858e0de56605c57cf578b68c9eb6",
+            "owner_user_id": 10000000001,
+            "main_user_id": 10000000001,
+            "is_delete": 0,
+            "create_user_id": 10000000001,
+            "update_user_id": 10000000001,
+            "create_time": "2023-06-02 14:41:20",
+            "update_time": "2023-06-02 14:41:20",
+            "is_local_create": 1,
+            "is_sync_create": 0,
+            "stat_cost": "0.00",
+            "pay_order_count": "0",
+            "pay_order_amount": "0.00",
+            "pay_order_roi": "0.00",
+            "ctr": "0.00%",
+            "click_cnt": "0",
+            "show_cnt": "0",
+            "prepay_order_count": "0",
+            "prepay_order_amount": "0.00",
+            "prepay_and_pay_order_roi": "0.00",
+            "indirect_order_pay_gmv_7days": "0",
+            "pay_order_coupon_amount": "0",
+            "all_order_pay_roi_7days": "0.00",
+            "ad_num": 165,
+            "ad_keywords_str": "111111",
+            "category": "测试1111",
+            "category_id": 34620,
+            "is_removed": 0
+          }
+        ],
+        "config": {
+          "isEdit": true,
+          "open_account_diff": false
+        },
+        "accounts": {}
+      }
+    },
+    "preview_area": [
+      {
+        "collapse": true,
+        "checkAll": false,
+        "batchCheckArr": [],
+        "account": "暂停：仟得-1号-自运营-逸凡（清清2）",
+        "advertiser_id": 1748171980774413,
+        "media_account_id": "12402605719",
+        "adCount": 1,
+        "adGroup": [
+          {
+            "adData": {
+              "media_account_id": 12402605719,
+              "aweme_id": "62678827549",
+              "marketing_goal": "VIDEO_PROM_GOODS",
+              "lab_ad_type": "LAB_AD",
+              "campaign_scene": "DAILY_SALE",
+              "delivery_setting": {
+                "smart_bid_type": "SMART_BID_CUSTOM",
+                "external_action": "AD_CONVERT_TYPE_SHOPPING",
+                "budget": "300",
+                "cpa_bid": "0.2",
+                "budget_mode": "BUDGET_MODE_DAY",
+                "video_schedule_type": "SCHEDULE_FROM_NOW",
+                "schedule_time": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "qcpx_mode": "QCPX_MODE_OFF",
+                "flow_control_mode": "FLOW_CONTROL_MODE_FAST",
+                "enable_auto_pause": 0
+              },
+              "audience": {
+                "district": "NONE",
+                "city": [],
+                "location_type": "CURRENT",
+                "gender": "GENDER_MALE",
+                "age": [
+                  "AGE_BETWEEN_18_23",
+                  "AGE_BETWEEN_24_30"
+                ],
+                "aweme_mode": "UNLIMITED",
+                "auto_extend_enabled": 1,
+                "auto_extend_targets": [
+                  "REGION",
+                  "GENDER",
+                  "AGE",
+                  "CUSTOM_AUDIENCE"
+                ],
+                "platform": [
+                  "ANDROID"
+                ],
+                "interest_action_mode": "[]",
+                "ac": [
+                  "2G"
+                ],
+                "retargeting_tags_include": [],
+                "retargeting_tags_exclude": [],
+                "live_platform_tags": [],
+                "new_customer": "NONE",
+                "media_account_id": "",
+                "exclude_limited_region": true,
+                "district_type": false,
+                "audience_mode": "CUSTOM"
+              },
+              "cl_audience_type": "custom",
+              "cl_audience_id": 186104,
+              "cl_ad_keywords_id": 455507,
+              "first_industry_id": 1901,
+              "second_industry_id": 190104,
+              "third_industry_id": 19010402,
+              "ad_keywords": [
+                "111111"
+              ],
+              "name": "qq-抖音号视频-图片-推商品-0731-155937-1",
+              "mobgi_unique_fk": "776ffb03-6b24-4ba3-8040-227ad407e87b",
+              "product_ids": [
+                "3455031160130897280"
+              ],
+              "creative_material_mode": "PROGRAMMATIC_CREATIVE",
+              "programmatic_creative_media_list": [
+                {
+                  "image_mode": "LARGE_VERTICAL",
+                  "image_ids": [
+                    "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7"
+                  ]
+                }
+              ],
+              "programmatic_creative_title_list": [
+                {
+                  "title": "抖音号测试标题1",
+                  "dynamic_words": [],
+                  "title_type": "CUSTOM"
+                },
+                {
+                  "title": "抖音号测试标题2",
+                  "dynamic_words": [],
+                  "title_type": "CUSTOM"
+                },
+                {
+                  "title": "抖音号测试标题3",
+                  "dynamic_words": [],
+                  "title_type": "CUSTOM"
+                },
+                {
+                  "title": "抖音号测试标题4",
+                  "dynamic_words": [],
+                  "title_type": "CUSTOM"
+                }
+              ],
+              "programmatic_creative_card": {
+                "promotion_card_title": "视频同款商品",
+                "promotion_card_selling_points": [
+                  "商家倾情推荐"
+                ],
+                "promotion_card_image_id": "web.business.image/202307245d0dca25e2b2ffad40119af6",
+                "promotion_card_action_button": "查看详情",
+                "promotion_card_button_smart_optimization": 0,
+                "cl_product_image_width": 288,
+                "cl_product_image_height": 288
+              },
+              "creative_auto_generate": 1,
+              "is_homepage_hide": "1",
+              "creative_list": [
+                {
+                  "image_mode": "VIDEO_VERTICAL",
+                  "video_material": {
+                    "aweme_item_id": "7129365860489104654",
+                    "width": 1080,
+                    "height": 1920,
+                    "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                    "video_id": "7197923652896555046"
+                  },
+                  "title_material": {
+                    "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                    "dynamic_words": []
+                  }
+                }
+              ],
+              "is_basic": 0,
+              "exitsName": false
+            },
+            "external": {
+              "images_num": 1,
+              "video_num": 1,
+              "smart_bid_type": "控成本投放",
+              "external_action": "商品购买",
+              "budget": "300元",
+              "cpa_bid": "0.2元",
+              "video_schedule_type": "从今天起长期投放",
+              "isNeedMaterial": true,
+              "audience": {
+                "id": 186104,
+                "name": "商品托管0612",
+                "promotion_way": "LAB_AD",
+                "description": "",
+                "owner_user_id": 10000000001,
+                "create_user_id": 10000000001,
+                "media_account_id": null,
+                "district_type": 0,
+                "create_time": "2023-06-12 15:29:00",
+                "update_time": "2023-06-12 15:29:00",
+                "stat_cost": "0.00",
+                "pay_order_count": "0",
+                "pay_order_amount": "0.00",
+                "pay_order_roi": "0.00",
+                "ctr": "0.00%",
+                "click_cnt": "0",
+                "show_cnt": "0",
+                "prepay_order_count": "0",
+                "prepay_order_amount": "0.00",
+                "prepay_and_pay_order_roi": "0.00",
+                "indirect_order_pay_gmv_7days": "0",
+                "pay_order_coupon_amount": "0",
+                "all_order_pay_roi_7days": "0",
+                "ad_num": 158,
+                "media_project_id": null,
+                "main_user_id": 10000000001,
+                "signature": "26b06414d078962eaf1436861a62e69b",
+                "update_user_id": 10000000001,
+                "exclude_limited_region": 1,
+                "source": 1,
+                "orientation_id": 0,
+                "advertiser_id": "-",
+                "company": "-",
+                "has_offline_tag": 0,
+                "audience": {
+                  "district": "NONE",
+                  "city": [],
+                  "location_type": "CURRENT",
+                  "gender": "GENDER_MALE",
+                  "age": [
+                    "AGE_BETWEEN_18_23",
+                    "AGE_BETWEEN_24_30"
+                  ],
+                  "aweme_mode": "UNLIMITED",
+                  "aweme_fan_behaviors": [],
+                  "aweme_fan_categories": [],
+                  "aweme_fan_accounts": [],
+                  "auto_extend_enabled": 1,
+                  "auto_extend_targets": [
+                    "REGION",
+                    "GENDER",
+                    "AGE",
+                    "CUSTOM_AUDIENCE"
+                  ],
+                  "platform": [
+                    "ANDROID"
+                  ],
+                  "action_scene": [],
+                  "interest_action_mode": "[]",
+                  "action_categories": [],
+                  "action_words": [],
+                  "interest_categories": [],
+                  "interest_words": [],
+                  "ac": [
+                    "2G"
+                  ],
+                  "retargeting_tags_include": [],
+                  "retargeting_tags_exclude": [],
+                  "live_platform_tags": [],
+                  "new_customer": "NONE",
+                  "media_account_id": "",
+                  "exclude_limited_region": true,
+                  "district_type": false,
+                  "audience_mode": "CUSTOM"
+                },
+                "advertiser_nick": "-",
+                "category": "--",
+                "category_id": "",
+                "create_user_name": "devin.lu1-企业管理员",
+                "audienceText": {
+                  "gender": "男",
+                  "age": "18-23岁、24-30岁",
+                  "area": "不限",
+                  "smart_interest_action": "UNLIMITED",
+                  "platform": "ANDROID",
+                  "ac": "2G",
+                  "auto_extend_targets": "地域、性别、年龄、更多人群-自定义人群",
+                  "aweme_fan": "不限"
+                }
+              },
+              "materialList": [
+                {
+                  "id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                  "material_id": "7129365860489104654",
+                  "material_type": "video",
+                  "qianchuan_material_id": "7197923652896555046",
+                  "video_id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                  "material_name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "file_uri": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                  "thumb": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "thumbnail_uri": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "poster_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "source": "AD_SITE",
+                  "is_douyin_video": true,
+                  "aweme_item_id": "7129365860489104654",
+                  "comment_cnt": 100,
+                  "duration": 21,
+                  "height": 1920,
+                  "is_recommend": 1,
+                  "like_cnt": 778,
+                  "share_cnt": 57,
+                  "url": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                  "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "view_cnt": 179710,
+                  "width": 1080,
+                  "is_inefficient": 0,
+                  "is_original": 0,
+                  "is_high": 0,
+                  "test_material_id": "7197923652896555046",
+                  "materia_front_sort": 1
+                },
+                {
+                  "id": 400194132,
+                  "pk": "cf8592dd2efeebfd6215850ccc42613c",
+                  "main_user_id": 10000000001,
+                  "advertiser_id": 1748171980774413,
+                  "qianchuan_material_id": "7238847659195252739",
+                  "qianchuan_material_str_id": "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "material_type": "image",
+                  "signature": "d73c0371e53f3cfcc06862a97e1b9b7a",
+                  "size": 84546,
+                  "width": 1080,
+                  "height": 1920,
+                  "format": "",
+                  "bit_rate": 0,
+                  "duration": 0,
+                  "source": "E_COMMERCE",
+                  "filename": "7238847659195252739",
+                  "update_time": "2023-07-31 10:07:16",
+                  "creative_user_id": 0,
+                  "make_user_id": 0,
+                  "shoot_user_id": "[]",
+                  "performer_user_id": "[]",
+                  "dub_user_id": "[]",
+                  "screencap_user_id": "[]",
+                  "sync_time": "2023-07-31 10:07:16",
+                  "aspect_ratio": "0.56",
+                  "tags": "[]",
+                  "label_ids": "",
+                  "is_inefficient": 0,
+                  "is_original": 0,
+                  "is_high": 0,
+                  "exist_material_id": 0,
+                  "exist_material_name": "",
+                  "thumbnail_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "is_local_exist": 0,
+                  "file_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "media_account_id": 12402605719,
+                  "create_time": "2023-07-27 20:10:25",
+                  "file_direction": 1,
+                  "material_id": "7238847659195252739",
+                  "material_name": "7238847659195252739",
+                  "material_source": "media",
+                  "poster_url": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                  "materia_front_sort": 3
+                }
+              ],
+              "keywords_name": "有分类-功能机",
+              "third_industry_name": "功能机",
+              "ad_keywords_str": "111111",
+              "textDetail": {
+                "use_text_list": [
+                  "抖音号测试标题1",
+                  "抖音号测试标题2",
+                  "抖音号测试标题3",
+                  "抖音号测试标题4",
+                  "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 "
+                ],
+                "title_package_id": 400058506,
+                "title_package_name": "抖音",
+                "owner_user_id": 10000000001,
+                "main_user_id": 10000000001,
+                "is_delete": 0,
+                "create_user_id": 10000000001,
+                "update_user_id": 0,
+                "create_time": "2023-07-31 14:58:48",
+                "update_time": "0000-00-00 00:00:00",
+                "title_type": "CUSTOM",
+                "stat_cost": "0.00",
+                "pay_order_count": "0",
+                "pay_order_amount": "0.00",
+                "ctr": "0.00%",
+                "pay_order_roi": "0",
+                "prepay_order_count": "0",
+                "prepay_order_amount": "0.00",
+                "prepay_and_pay_order_roi": "0",
+                "indirect_order_pay_gmv_7days": "0",
+                "pay_order_coupon_amount": "0",
+                "all_order_pay_roi_7days": "0",
+                "ad_count": "0",
+                "with_dynamic_words": 0,
+                "titles": [
+                  {
+                    "title_id": 402381001,
+                    "title": "抖音号测试标题1",
+                    "dynamic_words": [],
+                    "title_md5": "1929fb79eca98824ff39acdaee33bd3b",
+                    "category": "",
+                    "tag": "",
+                    "owner_user_id": 10000000001,
+                    "main_user_id": 10000000001,
+                    "is_delete": 0,
+                    "create_user_id": 10000000001,
+                    "update_user_id": 10000000001,
+                    "create_time": "2023-07-31 14:58:48",
+                    "update_time": "2023-07-31 14:58:48",
+                    "title_type": "CUSTOM",
+                    "title_package_id": 400058506
+                  },
+                  {
+                    "title_id": 402381002,
+                    "title": "抖音号测试标题2",
+                    "dynamic_words": [],
+                    "title_md5": "1dadb6db64652b65cdcf300091cba84e",
+                    "category": "",
+                    "tag": "",
+                    "owner_user_id": 10000000001,
+                    "main_user_id": 10000000001,
+                    "is_delete": 0,
+                    "create_user_id": 10000000001,
+                    "update_user_id": 10000000001,
+                    "create_time": "2023-07-31 14:58:48",
+                    "update_time": "2023-07-31 14:58:48",
+                    "title_type": "CUSTOM",
+                    "title_package_id": 400058506
+                  },
+                  {
+                    "title_id": 402381003,
+                    "title": "抖音号测试标题3",
+                    "dynamic_words": [],
+                    "title_md5": "4c01d5000a881350aebf5940d701c88c",
+                    "category": "",
+                    "tag": "",
+                    "owner_user_id": 10000000001,
+                    "main_user_id": 10000000001,
+                    "is_delete": 0,
+                    "create_user_id": 10000000001,
+                    "update_user_id": 10000000001,
+                    "create_time": "2023-07-31 14:58:48",
+                    "update_time": "2023-07-31 14:58:48",
+                    "title_type": "CUSTOM",
+                    "title_package_id": 400058506
+                  },
+                  {
+                    "title_id": 402381004,
+                    "title": "抖音号测试标题4",
+                    "dynamic_words": [],
+                    "title_md5": "0ce4b553e46e425218551e18e5e43c4b",
+                    "category": "",
+                    "tag": "",
+                    "owner_user_id": 10000000001,
+                    "main_user_id": 10000000001,
+                    "is_delete": 0,
+                    "create_user_id": 10000000001,
+                    "update_user_id": 10000000001,
+                    "create_time": "2023-07-31 14:58:48",
+                    "update_time": "2023-07-31 14:58:48",
+                    "title_type": "CUSTOM",
+                    "title_package_id": 400058506
+                  }
+                ]
+              },
+              "creative_material_mode": "程序化创意",
+              "module_data": {
+                "audience": {
+                  "id": 186104,
+                  "name": "商品托管0612"
+                },
+                "title": {
+                  "id": 400058506,
+                  "name": "抖音"
+                },
+                "keywords": {
+                  "id": 455507,
+                  "name": "有分类-功能机"
+                },
+                "creative": {
+                  "id": "178b66ae-f631-473d-b134-d268d0fcd1ff",
+                  "name": "创意组01"
+                }
+              }
+            },
+            "status": "wait",
+            "mobgi_unique_fk": "776ffb03-6b24-4ba3-8040-227ad407e87b",
+            "message": "",
+            "checked": false,
+            "campaign": null,
+            "campaign_status": "error"
+          }
+        ],
+        "adSuccess": 0,
+        "adFail": 0
+      }
+    ],
+    "ad_list_post": {
+      "776ffb03-6b24-4ba3-8040-227ad407e87b": [
+        {
+          "adData": {
+            "media_account_id": 12402605719,
+            "aweme_id": "62678827549",
+            "marketing_goal": "VIDEO_PROM_GOODS",
+            "lab_ad_type": "LAB_AD",
+            "campaign_scene": "DAILY_SALE",
+            "delivery_setting": {
+              "smart_bid_type": "SMART_BID_CUSTOM",
+              "external_action": "AD_CONVERT_TYPE_SHOPPING",
+              "budget": "300",
+              "cpa_bid": "0.2",
+              "budget_mode": "BUDGET_MODE_DAY",
+              "video_schedule_type": "SCHEDULE_FROM_NOW",
+              "schedule_time": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+              "qcpx_mode": "QCPX_MODE_OFF",
+              "flow_control_mode": "FLOW_CONTROL_MODE_FAST",
+              "enable_auto_pause": 0
+            },
+            "audience": {
+              "district": "NONE",
+              "city": [],
+              "location_type": "CURRENT",
+              "gender": "GENDER_MALE",
+              "age": [
+                "AGE_BETWEEN_18_23",
+                "AGE_BETWEEN_24_30"
+              ],
+              "aweme_mode": "UNLIMITED",
+              "auto_extend_enabled": 1,
+              "auto_extend_targets": [
+                "REGION",
+                "GENDER",
+                "AGE",
+                "CUSTOM_AUDIENCE"
+              ],
+              "platform": [
+                "ANDROID"
+              ],
+              "interest_action_mode": "[]",
+              "ac": [
+                "2G"
+              ],
+              "retargeting_tags_include": [],
+              "retargeting_tags_exclude": [],
+              "live_platform_tags": [],
+              "new_customer": "NONE",
+              "media_account_id": "",
+              "exclude_limited_region": true,
+              "district_type": false,
+              "audience_mode": "CUSTOM"
+            },
+            "cl_audience_type": "custom",
+            "cl_audience_id": 186104,
+            "cl_ad_keywords_id": 455507,
+            "first_industry_id": 1901,
+            "second_industry_id": 190104,
+            "third_industry_id": 19010402,
+            "ad_keywords": [
+              "111111"
+            ],
+            "name": "qq-抖音号视频-图片-推商品-0731-155937-1",
+            "mobgi_unique_fk": "776ffb03-6b24-4ba3-8040-227ad407e87b",
+            "product_ids": [
+              "3455031160130897280"
+            ],
+            "creative_material_mode": "PROGRAMMATIC_CREATIVE",
+            "programmatic_creative_media_list": [
+              {
+                "image_mode": "LARGE_VERTICAL",
+                "image_ids": [
+                  "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7"
+                ]
+              }
+            ],
+            "programmatic_creative_title_list": [
+              {
+                "title": "抖音号测试标题1",
+                "dynamic_words": [],
+                "title_type": "CUSTOM"
+              },
+              {
+                "title": "抖音号测试标题2",
+                "dynamic_words": [],
+                "title_type": "CUSTOM"
+              },
+              {
+                "title": "抖音号测试标题3",
+                "dynamic_words": [],
+                "title_type": "CUSTOM"
+              },
+              {
+                "title": "抖音号测试标题4",
+                "dynamic_words": [],
+                "title_type": "CUSTOM"
+              }
+            ],
+            "programmatic_creative_card": {
+              "promotion_card_title": "视频同款商品",
+              "promotion_card_selling_points": [
+                "商家倾情推荐"
+              ],
+              "promotion_card_image_id": "web.business.image/202307245d0dca25e2b2ffad40119af6",
+              "promotion_card_action_button": "查看详情",
+              "promotion_card_button_smart_optimization": 0,
+              "cl_product_image_width": 288,
+              "cl_product_image_height": 288
+            },
+            "creative_auto_generate": 1,
+            "is_homepage_hide": "1",
+            "creative_list": [
+              {
+                "image_mode": "VIDEO_VERTICAL",
+                "video_material": {
+                  "aweme_item_id": "7129365860489104654",
+                  "width": 1080,
+                  "height": 1920,
+                  "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                  "video_id": "7197923652896555046"
+                },
+                "title_material": {
+                  "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                  "dynamic_words": []
+                }
+              }
+            ],
+            "is_basic": 0,
+            "exitsName": false
+          },
+          "external": {
+            "images_num": 1,
+            "video_num": 1,
+            "smart_bid_type": "控成本投放",
+            "external_action": "商品购买",
+            "budget": "300元",
+            "cpa_bid": "0.2元",
+            "video_schedule_type": "从今天起长期投放",
+            "isNeedMaterial": true,
+            "audience": {
+              "id": 186104,
+              "name": "商品托管0612",
+              "promotion_way": "LAB_AD",
+              "description": "",
+              "owner_user_id": 10000000001,
+              "create_user_id": 10000000001,
+              "media_account_id": null,
+              "district_type": 0,
+              "create_time": "2023-06-12 15:29:00",
+              "update_time": "2023-06-12 15:29:00",
+              "stat_cost": "0.00",
+              "pay_order_count": "0",
+              "pay_order_amount": "0.00",
+              "pay_order_roi": "0.00",
+              "ctr": "0.00%",
+              "click_cnt": "0",
+              "show_cnt": "0",
+              "prepay_order_count": "0",
+              "prepay_order_amount": "0.00",
+              "prepay_and_pay_order_roi": "0.00",
+              "indirect_order_pay_gmv_7days": "0",
+              "pay_order_coupon_amount": "0",
+              "all_order_pay_roi_7days": "0",
+              "ad_num": 158,
+              "media_project_id": null,
+              "main_user_id": 10000000001,
+              "signature": "26b06414d078962eaf1436861a62e69b",
+              "update_user_id": 10000000001,
+              "exclude_limited_region": 1,
+              "source": 1,
+              "orientation_id": 0,
+              "advertiser_id": "-",
+              "company": "-",
+              "has_offline_tag": 0,
+              "audience": {
+                "district": "NONE",
+                "city": [],
+                "location_type": "CURRENT",
+                "gender": "GENDER_MALE",
+                "age": [
+                  "AGE_BETWEEN_18_23",
+                  "AGE_BETWEEN_24_30"
+                ],
+                "aweme_mode": "UNLIMITED",
+                "aweme_fan_behaviors": [],
+                "aweme_fan_categories": [],
+                "aweme_fan_accounts": [],
+                "auto_extend_enabled": 1,
+                "auto_extend_targets": [
+                  "REGION",
+                  "GENDER",
+                  "AGE",
+                  "CUSTOM_AUDIENCE"
+                ],
+                "platform": [
+                  "ANDROID"
+                ],
+                "action_scene": [],
+                "interest_action_mode": "[]",
+                "action_categories": [],
+                "action_words": [],
+                "interest_categories": [],
+                "interest_words": [],
+                "ac": [
+                  "2G"
+                ],
+                "retargeting_tags_include": [],
+                "retargeting_tags_exclude": [],
+                "live_platform_tags": [],
+                "new_customer": "NONE",
+                "media_account_id": "",
+                "exclude_limited_region": true,
+                "district_type": false,
+                "audience_mode": "CUSTOM"
+              },
+              "advertiser_nick": "-",
+              "category": "--",
+              "category_id": "",
+              "create_user_name": "devin.lu1-企业管理员",
+              "audienceText": {
+                "gender": "男",
+                "age": "18-23岁、24-30岁",
+                "area": "不限",
+                "smart_interest_action": "UNLIMITED",
+                "platform": "ANDROID",
+                "ac": "2G",
+                "auto_extend_targets": "地域、性别、年龄、更多人群-自定义人群",
+                "aweme_fan": "不限"
+              }
+            },
+            "materialList": [
+              {
+                "id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                "material_id": "7129365860489104654",
+                "material_type": "video",
+                "qianchuan_material_id": "7197923652896555046",
+                "video_id": "v0200fg10000cbo9fcrc77u1kq8bt8bg",
+                "material_name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                "title": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                "file_uri": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                "thumb": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                "thumbnail_uri": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                "poster_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                "name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 ",
+                "source": "AD_SITE",
+                "is_douyin_video": true,
+                "aweme_item_id": "7129365860489104654",
+                "comment_cnt": 100,
+                "duration": 21,
+                "height": 1920,
+                "is_recommend": 1,
+                "like_cnt": 778,
+                "share_cnt": 57,
+                "url": "https://cc.oceanengine.com/anm/CsoD0_pToYMixD4Vz17_Q0MK3Hw_56wPo9GYUfQFijJydEtHiK5sqf9q3pASzMFgFY3ryyElYw2FAcTKw1rZjBeZPaGLj5Kui1dfEa30CH5T6cr-Gga7M-llRs4OXmZeNj6QebF15V5eIVYFJZ8fDNddyHPeZ0XCKeNaBoVgdQYROs8aI3Q3z2EfUwYkx-4Nnu4kPhizSq5RG3OVyOykKE0zV5xdu8Se314IoOgCVr1OlzwauGEx3mZ7saq3rmP9ZCF1oLXDatA2f8L82HTdQq7qjCdC6ikxA9yH3Ho02IMMKmnP8Kzg3zYWyoJNC7VUJJUBxMeoIPQstfQQYKa5J9Z4y8pdK8vylCqw0SK6hAgiKBntoTo9zOlWx4g2OD8on0PO22-JBFJUktoqVbgJ9dzvHuYbVHOtrx_sFw7A3wDTQA8KQB1bO7NrzGckZ8ehMoL2yxgZ4bV2kFaz_jEVVsMeKCiNpcAH1cPm2NsHlmEqdpFaJoV59pv4YzQtI9xuVctc97WxHPc8Tm7GE9Z7P2b1YbydrU8eWitPVBRSJcIqPt8cHG__VJYS1hS39QPMeZmgvKbDQ05D-UMBbE9-A3_uPcMa8XXmuoaet38aSwo8DIpCf9uT5-SAIyEb_gb3wdlhtrVjjDFyvP1emxHWtNrqwmDq4VeluwY7vAeLo3lUldRovRynYv4xUzICEOT5tw0Y7fL_4QEgASIBA1cw0XY=",
+                "video_cover_url": "https://p3-sign.douyinpic.com/obj/tos-cn-p-0015/a10f25bd3d6146e4be6e32569045ca34_1659934873?x-expires=1690808400&x-signature=biQU9atnKJ6p%2BBcxQmTokovSaus%3D&from=3751895876",
+                "view_cnt": 179710,
+                "width": 1080,
+                "is_inefficient": 0,
+                "is_original": 0,
+                "is_high": 0,
+                "test_material_id": "7197923652896555046",
+                "materia_front_sort": 1
+              },
+              {
+                "id": 400194132,
+                "pk": "cf8592dd2efeebfd6215850ccc42613c",
+                "main_user_id": 10000000001,
+                "advertiser_id": 1748171980774413,
+                "qianchuan_material_id": "7238847659195252739",
+                "qianchuan_material_str_id": "tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                "material_type": "image",
+                "signature": "d73c0371e53f3cfcc06862a97e1b9b7a",
+                "size": 84546,
+                "width": 1080,
+                "height": 1920,
+                "format": "",
+                "bit_rate": 0,
+                "duration": 0,
+                "source": "E_COMMERCE",
+                "filename": "7238847659195252739",
+                "update_time": "2023-07-31 10:07:16",
+                "creative_user_id": 0,
+                "make_user_id": 0,
+                "shoot_user_id": "[]",
+                "performer_user_id": "[]",
+                "dub_user_id": "[]",
+                "screencap_user_id": "[]",
+                "sync_time": "2023-07-31 10:07:16",
+                "aspect_ratio": "0.56",
+                "tags": "[]",
+                "label_ids": "",
+                "is_inefficient": 0,
+                "is_original": 0,
+                "is_high": 0,
+                "exist_material_id": 0,
+                "exist_material_name": "",
+                "thumbnail_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                "is_local_exist": 0,
+                "file_uri": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                "media_account_id": 12402605719,
+                "create_time": "2023-07-27 20:10:25",
+                "file_direction": 1,
+                "material_id": "7238847659195252739",
+                "material_name": "7238847659195252739",
+                "material_source": "media",
+                "poster_url": "https://p3.douyinpic.com/obj/tos-cn-p-0015/oIKBaBJ0FI7gHmfB4ZApfQgPLA3EJQ1CEf2JP7",
+                "materia_front_sort": 3
+              }
+            ],
+            "keywords_name": "有分类-功能机",
+            "third_industry_name": "功能机",
+            "ad_keywords_str": "111111",
+            "textDetail": {
+              "use_text_list": [
+                "抖音号测试标题1",
+                "抖音号测试标题2",
+                "抖音号测试标题3",
+                "抖音号测试标题4",
+                "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 "
+              ],
+              "title_package_id": 400058506,
+              "title_package_name": "抖音",
+              "owner_user_id": 10000000001,
+              "main_user_id": 10000000001,
+              "is_delete": 0,
+              "create_user_id": 10000000001,
+              "update_user_id": 0,
+              "create_time": "2023-07-31 14:58:48",
+              "update_time": "0000-00-00 00:00:00",
+              "title_type": "CUSTOM",
+              "stat_cost": "0.00",
+              "pay_order_count": "0",
+              "pay_order_amount": "0.00",
+              "ctr": "0.00%",
+              "pay_order_roi": "0",
+              "prepay_order_count": "0",
+              "prepay_order_amount": "0.00",
+              "prepay_and_pay_order_roi": "0",
+              "indirect_order_pay_gmv_7days": "0",
+              "pay_order_coupon_amount": "0",
+              "all_order_pay_roi_7days": "0",
+              "ad_count": "0",
+              "with_dynamic_words": 0,
+              "titles": [
+                {
+                  "title_id": 402381001,
+                  "title": "抖音号测试标题1",
+                  "dynamic_words": [],
+                  "title_md5": "1929fb79eca98824ff39acdaee33bd3b",
+                  "category": "",
+                  "tag": "",
+                  "owner_user_id": 10000000001,
+                  "main_user_id": 10000000001,
+                  "is_delete": 0,
+                  "create_user_id": 10000000001,
+                  "update_user_id": 10000000001,
+                  "create_time": "2023-07-31 14:58:48",
+                  "update_time": "2023-07-31 14:58:48",
+                  "title_type": "CUSTOM",
+                  "title_package_id": 400058506
+                },
+                {
+                  "title_id": 402381002,
+                  "title": "抖音号测试标题2",
+                  "dynamic_words": [],
+                  "title_md5": "1dadb6db64652b65cdcf300091cba84e",
+                  "category": "",
+                  "tag": "",
+                  "owner_user_id": 10000000001,
+                  "main_user_id": 10000000001,
+                  "is_delete": 0,
+                  "create_user_id": 10000000001,
+                  "update_user_id": 10000000001,
+                  "create_time": "2023-07-31 14:58:48",
+                  "update_time": "2023-07-31 14:58:48",
+                  "title_type": "CUSTOM",
+                  "title_package_id": 400058506
+                },
+                {
+                  "title_id": 402381003,
+                  "title": "抖音号测试标题3",
+                  "dynamic_words": [],
+                  "title_md5": "4c01d5000a881350aebf5940d701c88c",
+                  "category": "",
+                  "tag": "",
+                  "owner_user_id": 10000000001,
+                  "main_user_id": 10000000001,
+                  "is_delete": 0,
+                  "create_user_id": 10000000001,
+                  "update_user_id": 10000000001,
+                  "create_time": "2023-07-31 14:58:48",
+                  "update_time": "2023-07-31 14:58:48",
+                  "title_type": "CUSTOM",
+                  "title_package_id": 400058506
+                },
+                {
+                  "title_id": 402381004,
+                  "title": "抖音号测试标题4",
+                  "dynamic_words": [],
+                  "title_md5": "0ce4b553e46e425218551e18e5e43c4b",
+                  "category": "",
+                  "tag": "",
+                  "owner_user_id": 10000000001,
+                  "main_user_id": 10000000001,
+                  "is_delete": 0,
+                  "create_user_id": 10000000001,
+                  "update_user_id": 10000000001,
+                  "create_time": "2023-07-31 14:58:48",
+                  "update_time": "2023-07-31 14:58:48",
+                  "title_type": "CUSTOM",
+                  "title_package_id": 400058506
+                }
+              ]
+            },
+            "creative_material_mode": "程序化创意",
+            "module_data": {
+              "audience": {
+                "id": 186104,
+                "name": "商品托管0612"
+              },
+              "title": {
+                "id": 400058506,
+                "name": "抖音"
+              },
+              "keywords": {
+                "id": 455507,
+                "name": "有分类-功能机"
+              },
+              "creative": {
+                "id": "178b66ae-f631-473d-b134-d268d0fcd1ff",
+                "name": "创意组01"
+              }
+            }
+          },
+          "status": "wait",
+          "mobgi_unique_fk": "776ffb03-6b24-4ba3-8040-227ad407e87b",
+          "message": "",
+          "checked": false,
+          "campaign": null,
+          "campaign_status": "error"
+        }
+      ]
+    }
+  },
+  "use_materials": [
+    {
+      "material_id": "7238847659195252739",
+      "material_name": "7238847659195252739"
+    },
+    {
+      "material_id": "7129365860489104654",
+      "material_name": "官宣： 欢迎王心凌成为老金磨方品牌星推官，快来get我的同款小丸子吧#老金磨方 #王心凌 "
+    }
+  ]
+}

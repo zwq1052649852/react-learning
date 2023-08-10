@@ -1,0 +1,653 @@
+{
+  "media_type": "jinniu",
+  "cl_app_id": "4928197619180",
+  "commit_rule": {
+    "rule_type": 1,
+    "start_commit_ad_time": "2023-07-12 14:15:30",
+    "commit_interval": "",
+    "commit_campaign_num": 0,
+    "task_name": "新建广告_小菜05222-立即提交-12402197035-0712-140532"
+  },
+  "commit_ad_data": {
+    "ads": [
+      {
+        "media_account_id": 12402197035,
+        "advertiser_id": "",
+        "campaign_id": 1570313410,
+        "unit_name": "短视频01-140500-1",
+        "merchant_item_put_type": "0",
+        "unit_type": 4,
+        "support_type": "0",
+        "bid_type": 10,
+        "show_mode": 2,
+        "speed": 5,
+        "roi_ratio": 0,
+        "ocpx_action_type": 395,
+        "simultaneousOptimizationType": 0,
+        "simultaneousOptimizationSelected": false,
+        "day_budget": 0,
+        "begin_time_str": "2023-07-12",
+        "end_time_str": "",
+        "item_id": "4928197619180",
+        "target_name": "人人",
+        "target_id": 400277130,
+        "target_type": 2,
+        "target": {
+          "region_type": 0,
+          "gender_type": 0,
+          "population": [
+            116184300,
+            117039124
+          ],
+          "exclude_population": [],
+          "paid_audience": [],
+          "purchaseIntention": null,
+          "celebrity": null,
+          "targetExtend": 0,
+          "private_crowd": [],
+          "audienceTargetType": 0,
+          "enginePopulation": [],
+          "history_action": [],
+          "fans_active": [],
+          "fans_effective": 0,
+          "fans_target": [],
+          "action_target": [],
+          "deal_aging": []
+        },
+        "targetExtend": 0,
+        "is_create_backstage": 1,
+        "creative": [
+          {
+            "cover_url": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+            "cover_width": 720,
+            "cover_height": 1280,
+            "creative_name": "0712-140500-1",
+            "photo_id": "5196309650792248409",
+            "action_bar": "了解详情",
+            "recommendation": "s",
+            "description": "连山0621测试标题[日期]",
+            "new_expose_tag": [
+              "理想好货"
+            ],
+            "material_name": "34秒-衍生",
+            "video_url": "https://alimov2.a.kwimgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_b_B5cd6e0856d8b0dd7e1d9f4d78ef713db.mp4?tag=1-1689141865-unknown-0-migqz2luhu-7b5822df29609d99&clientCacheKey=3x6xmbk6j7pfspy_b.mp4&tt=b&di=b4b8287f&bp=10000",
+            "other_data": {
+              "cover_loading": false,
+              "error": ""
+            },
+            "thumbnail_uri": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+            "material_id": "5196309650792248409",
+            "scene_id": [
+              6,
+              7
+            ]
+          }
+        ],
+        "program_creative": null,
+        "scene_id": [
+          6,
+          7,
+          10
+        ],
+        "campaign_type": "13",
+        "uri": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+        "url": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+        "creativeBuildType": 0,
+        "auto_scene_type": 1,
+        "unique_id": "ce178884-94c4-4358-948a-3a4106536c6d",
+        "liveUserId": 2164213180,
+        "budget_smart_allocation": 1
+      }
+    ]
+  },
+  "config_data": {
+    "commonParams": {
+      "media_account_ids": [
+        12402197035
+      ],
+      "item": {
+        "item_id": "4928197619180"
+      },
+      "url": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+      "uri": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+      "title_type": "AUTO",
+      "company": "",
+      "campaign_type": "13",
+      "promotion_type": "2",
+      "merchant_item_put_type": "0",
+      "support_type": "0",
+      "car_type": "0",
+      "budget_smart_allocation": "1"
+    },
+    "presetData": {
+      "campaign_rules": {
+        "ad_group_rule": "direct_group",
+        "ad_limit": 10,
+        "budget_mode": "BUDGET_MODE_UNIFY",
+        "dayBudget": 500,
+        "ad_operation": "enable",
+        "campaign_name": "<营销目标>-<定向包名>-<时间>-<编号>",
+        "campaign_index": 1
+      },
+      "ad_base": {
+        "list": [],
+        "config": {
+          "name": "短视频01-<时间>-<编号>",
+          "ocpxActionType": 395,
+          "ocpxActionLabel": "商品购买",
+          "bidType": 10,
+          "bid_mode": "",
+          "min_bid": "",
+          "max_bid": "",
+          "cpaBid": "",
+          "roi_ratio": "",
+          "beginTime": "2023-07-12",
+          "endTime": "",
+          "schedule_type": "SCHEDULE_FROM_NOW",
+          "schedule_time_type": "",
+          "schedule_time": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "schedule": "",
+          "dayBudgetType": "",
+          "dayBudget": 0,
+          "speed": 5,
+          "name_start_number": 1,
+          "is_create_backstage": 1,
+          "deep_conversion_type": "",
+          "simultaneousOptimizationType": 0,
+          "simultaneousOptimizationSelected": false,
+          "reservationId": 0,
+          "scheduleTimePeriod": 0,
+          "business_type": 11,
+          "weekTimeStr": []
+        }
+      },
+      "audience": {
+        "config": {
+          "open_account_diff": false,
+          "audience_apply_count": 1
+        },
+        "list": [
+          {
+            "id": 400277130,
+            "main_user_id": 10000000001,
+            "media_account_id": 12402197035,
+            "type": 2,
+            "template_id": 0,
+            "name": "人人",
+            "description": "",
+            "unit_count": 20,
+            "intention_target": null,
+            "auto_target": null,
+            "target": {
+              "region_type": 0,
+              "gender_type": 0,
+              "population": [
+                {
+                  "orientation_id": 116184300,
+                  "orientation_name": "优质-涨粉人群",
+                  "desc": "",
+                  "cover_num": 3847948,
+                  "update_time": "2023-06-20",
+                  "category_type": 2,
+                  "label_list": [],
+                  "population_type": 99999,
+                  "status": 4,
+                  "checked": true
+                },
+                {
+                  "orientation_id": 117039124,
+                  "orientation_name": "地区",
+                  "status": 4,
+                  "category_type": 0,
+                  "cover_num": 8245654,
+                  "population_type": 32,
+                  "third_platform_code": null,
+                  "third_platform_name": "地域",
+                  "exclude_population": false,
+                  "can_exclude": 1,
+                  "checked": true
+                }
+              ],
+              "exclude_population": [],
+              "paid_audience": [],
+              "purchaseIntention": null,
+              "celebrity": null,
+              "targetExtend": 0,
+              "private_crowd": [],
+              "audienceTargetType": 0,
+              "enginePopulation": [],
+              "history_action": [],
+              "fans_active": [],
+              "fans_effective": 0,
+              "fans_target": [],
+              "action_target": [],
+              "deal_aging": []
+            },
+            "business_type": 0,
+            "is_delete": 0,
+            "create_user_id": 10000000001,
+            "update_user_id": 10000000001,
+            "create_time": "2023-06-21 07:39:49",
+            "core_population_type": 0,
+            "target_type": 2,
+            "advertiser_id": 13275538,
+            "audienceText": {
+              "gender": "不限",
+              "age": "不限",
+              "area": "不限",
+              "populationMode": "定向人群（优质-涨粉人群, 地区）、排除人群（无）"
+            }
+          }
+        ],
+        "accounts": [
+          {
+            "id": 400277130,
+            "main_user_id": 10000000001,
+            "media_account_id": 12402197035,
+            "type": 2,
+            "template_id": 0,
+            "name": "人人",
+            "description": "",
+            "unit_count": 20,
+            "intention_target": null,
+            "auto_target": null,
+            "target": {
+              "region_type": 0,
+              "gender_type": 0,
+              "population": [
+                {
+                  "orientation_id": 116184300,
+                  "orientation_name": "优质-涨粉人群",
+                  "desc": "",
+                  "cover_num": 3847948,
+                  "update_time": "2023-06-20",
+                  "category_type": 2,
+                  "label_list": [],
+                  "population_type": 99999,
+                  "status": 4,
+                  "checked": true
+                },
+                {
+                  "orientation_id": 117039124,
+                  "orientation_name": "地区",
+                  "status": 4,
+                  "category_type": 0,
+                  "cover_num": 8245654,
+                  "population_type": 32,
+                  "third_platform_code": null,
+                  "third_platform_name": "地域",
+                  "exclude_population": false,
+                  "can_exclude": 1,
+                  "checked": true
+                }
+              ],
+              "exclude_population": [],
+              "paid_audience": [],
+              "purchaseIntention": null,
+              "celebrity": null,
+              "targetExtend": 0,
+              "private_crowd": [],
+              "audienceTargetType": 0,
+              "enginePopulation": [],
+              "history_action": [],
+              "fans_active": [],
+              "fans_effective": 0,
+              "fans_target": [],
+              "action_target": [],
+              "deal_aging": []
+            },
+            "business_type": 0,
+            "is_delete": 0,
+            "create_user_id": 10000000001,
+            "update_user_id": 10000000001,
+            "create_time": "2023-06-21 07:39:49",
+            "core_population_type": 0,
+            "target_type": 2,
+            "advertiser_id": 13275538,
+            "audienceText": {
+              "gender": "不限",
+              "age": "不限",
+              "area": "不限",
+              "populationMode": "定向人群（优质-涨粉人群, 地区）、排除人群（无）"
+            }
+          }
+        ]
+      },
+      "creative_base": {
+        "scene_id": [
+          6,
+          7
+        ],
+        "name": "<日期>-<时间>-<编号>",
+        "name_start_number": 1,
+        "unit_type": 4,
+        "auto_scene_type": 1,
+        "program_cover_type": "CUSTOM",
+        "cover_slogans": [],
+        "sticker_styles": [],
+        "new_expose_tag": [
+          "理想好货"
+        ],
+        "action_bar": "了解详情",
+        "recommendation": "s",
+        "live_creative_type": 2,
+        "creative_build_type": 0,
+        "live_theme": "",
+        "car_type": 0,
+        "highLightFlash": 1,
+        "shoppingCarProductId": "",
+        "goodsUrl": ""
+      },
+      "creative_material": {
+        "config": {
+          "video_limit": 1,
+          "cover_limit": 1,
+          "video_apply_count": 1,
+          "auto_generate_cover": true,
+          "sync_to_homepage": false,
+          "creative_desc_use_type": "PROGRAM"
+        },
+        "list": [
+          {
+            "id_fk": "267bbdcd-c547-4a9f-8fa0-f6989ad3889c",
+            "video_list": [
+              {
+                "cover_url": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+                "cover_width": 720,
+                "cover_height": 1280,
+                "creative_name": "<日期>-<时间>-<编号>",
+                "photo_id": "5196309650792248409",
+                "action_bar": "了解详情",
+                "recommendation": "s",
+                "description": "",
+                "new_expose_tag": [
+                  "理想好货"
+                ],
+                "material_name": "34秒-衍生",
+                "video_url": "https://alimov2.a.kwimgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_b_B5cd6e0856d8b0dd7e1d9f4d78ef713db.mp4?tag=1-1689141865-unknown-0-migqz2luhu-7b5822df29609d99&clientCacheKey=3x6xmbk6j7pfspy_b.mp4&tt=b&di=b4b8287f&bp=10000",
+                "other_data": {
+                  "cover_loading": false,
+                  "error": ""
+                },
+                "thumbnail_uri": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+                "material_id": "5196309650792248409"
+              }
+            ],
+            "cover_list": [],
+            "Collapsed": false
+          }
+        ]
+      },
+      "creative_title": {
+        "list": [
+          {
+            "id": 498828065,
+            "name": "连山0621测试标题[日期]"
+          }
+        ],
+        "config": {}
+      }
+    },
+    "previewData": [
+      {
+        "media_account_id": 12402197035,
+        "campaign_list": [
+          {
+            "campaign_id_fk": 400277130,
+            "campaign_use_type": "PROGRAM",
+            "checked": false,
+            "media_account_id": 12402197035,
+            "advertiser_id": 13275538,
+            "campaign_name_error": "",
+            "campaign_select_error": "",
+            "campaign_create_error": "",
+            "create_campaign": {
+              "campaign_id": 1570313410,
+              "media_account_id": 12402197035,
+              "campaign_name": "qq-模板-预算智投",
+              "promotion_type": "2",
+              "type": "13",
+              "campaign_budget_mode": "BUDGET_MODE_UNIFY",
+              "campaign_day_budget": 500
+            },
+            "select_campaign": {
+              "campaign_id": ""
+            },
+            "ad_list": [
+              {
+                "media_account_id": "",
+                "advertiser_id": "",
+                "campaign_id": "",
+                "unit_name": "短视频01-140500-1",
+                "merchant_item_put_type": "0",
+                "unit_type": 4,
+                "support_type": "0",
+                "bid_type": 10,
+                "show_mode": 2,
+                "speed": 5,
+                "roi_ratio": "",
+                "ocpx_action_type": 395,
+                "simultaneousOptimizationType": 0,
+                "simultaneousOptimizationSelected": false,
+                "day_budget": 0,
+                "begin_time_str": "2023-07-12",
+                "end_time_str": "",
+                "item_id": "4928197619180",
+                "target_name": "人人",
+                "target_id": 400277130,
+                "target_type": 2,
+                "target": {
+                  "region_type": 0,
+                  "gender_type": 0,
+                  "population": [
+                    116184300,
+                    117039124
+                  ],
+                  "exclude_population": [],
+                  "paid_audience": [],
+                  "purchaseIntention": null,
+                  "celebrity": null,
+                  "targetExtend": 0,
+                  "private_crowd": [],
+                  "audienceTargetType": 0,
+                  "enginePopulation": [],
+                  "history_action": [],
+                  "fans_active": [],
+                  "fans_effective": 0,
+                  "fans_target": [],
+                  "action_target": [],
+                  "deal_aging": []
+                },
+                "targetExtend": 0,
+                "is_create_backstage": 1,
+                "creative": [
+                  {
+                    "cover_url": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+                    "cover_width": 720,
+                    "cover_height": 1280,
+                    "creative_name": "0712-140500-1",
+                    "photo_id": "5196309650792248409",
+                    "action_bar": "了解详情",
+                    "recommendation": "s",
+                    "description": "连山0621测试标题[日期]",
+                    "new_expose_tag": [
+                      "理想好货"
+                    ],
+                    "material_name": "34秒-衍生",
+                    "video_url": "https://alimov2.a.kwimgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_b_B5cd6e0856d8b0dd7e1d9f4d78ef713db.mp4?tag=1-1689141865-unknown-0-migqz2luhu-7b5822df29609d99&clientCacheKey=3x6xmbk6j7pfspy_b.mp4&tt=b&di=b4b8287f&bp=10000",
+                    "other_data": {
+                      "cover_loading": false,
+                      "error": ""
+                    },
+                    "thumbnail_uri": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+                    "material_id": "5196309650792248409",
+                    "scene_id": [
+                      6,
+                      7
+                    ]
+                  }
+                ],
+                "program_creative": null,
+                "scene_id": [
+                  6,
+                  7,
+                  10
+                ],
+                "other_data": {
+                  "advertiser_id": 13275538,
+                  "unit_id_fk": "ce178884-94c4-4358-948a-3a4106536c6d",
+                  "checked": false,
+                  "post_status": "wait",
+                  "post_message": "",
+                  "name_error": "",
+                  "creative_descriptions": [
+                    {
+                      "name": "连山0621测试标题[日期]"
+                    }
+                  ],
+                  "audience_name": "人人",
+                  "creative_source": {
+                    "id_fk": "267bbdcd-c547-4a9f-8fa0-f6989ad3889c",
+                    "video_list": [
+                      {
+                        "cover_url": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+                        "cover_width": 720,
+                        "cover_height": 1280,
+                        "creative_name": "<日期>-<时间>-<编号>",
+                        "photo_id": "5196309650792248409",
+                        "action_bar": "了解详情",
+                        "recommendation": "s",
+                        "description": "",
+                        "new_expose_tag": [
+                          "理想好货"
+                        ],
+                        "material_name": "34秒-衍生",
+                        "video_url": "https://alimov2.a.kwimgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_b_B5cd6e0856d8b0dd7e1d9f4d78ef713db.mp4?tag=1-1689141865-unknown-0-migqz2luhu-7b5822df29609d99&clientCacheKey=3x6xmbk6j7pfspy_b.mp4&tt=b&di=b4b8287f&bp=10000",
+                        "other_data": {
+                          "cover_loading": false,
+                          "error": ""
+                        },
+                        "thumbnail_uri": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+                        "material_id": "5196309650792248409"
+                      }
+                    ],
+                    "cover_list": [],
+                    "Collapsed": false
+                  }
+                },
+                "campaign_type": "13",
+                "uri": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+                "url": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+                "creativeBuildType": 0,
+                "auto_scene_type": 1
+              }
+            ]
+          }
+        ],
+        "batchCheckArr": [],
+        "collapse": true,
+        "checked": false,
+        "checked_ad_count": 0,
+        "advertiser_id": 13275538,
+        "advertiser_nick": "小菜05222",
+        "liveUserId": 2164213180
+      }
+    ],
+    "ad_list_post": [
+      {
+        "media_account_id": 12402197035,
+        "advertiser_id": "",
+        "campaign_id": 1570313410,
+        "unit_name": "短视频01-140500-1",
+        "merchant_item_put_type": "0",
+        "unit_type": 4,
+        "support_type": "0",
+        "bid_type": 10,
+        "show_mode": 2,
+        "speed": 5,
+        "roi_ratio": 0,
+        "ocpx_action_type": 395,
+        "simultaneousOptimizationType": 0,
+        "simultaneousOptimizationSelected": false,
+        "day_budget": 0,
+        "begin_time_str": "2023-07-12",
+        "end_time_str": "",
+        "item_id": "4928197619180",
+        "target_name": "人人",
+        "target_id": 400277130,
+        "target_type": 2,
+        "target": {
+          "region_type": 0,
+          "gender_type": 0,
+          "population": [
+            116184300,
+            117039124
+          ],
+          "exclude_population": [],
+          "paid_audience": [],
+          "purchaseIntention": null,
+          "celebrity": null,
+          "targetExtend": 0,
+          "private_crowd": [],
+          "audienceTargetType": 0,
+          "enginePopulation": [],
+          "history_action": [],
+          "fans_active": [],
+          "fans_effective": 0,
+          "fans_target": [],
+          "action_target": [],
+          "deal_aging": []
+        },
+        "targetExtend": 0,
+        "is_create_backstage": 1,
+        "creative": [
+          {
+            "cover_url": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+            "cover_width": 720,
+            "cover_height": 1280,
+            "creative_name": "0712-140500-1",
+            "photo_id": "5196309650792248409",
+            "action_bar": "了解详情",
+            "recommendation": "s",
+            "description": "连山0621测试标题[日期]",
+            "new_expose_tag": [
+              "理想好货"
+            ],
+            "material_name": "34秒-衍生",
+            "video_url": "https://alimov2.a.kwimgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_b_B5cd6e0856d8b0dd7e1d9f4d78ef713db.mp4?tag=1-1689141865-unknown-0-migqz2luhu-7b5822df29609d99&clientCacheKey=3x6xmbk6j7pfspy_b.mp4&tt=b&di=b4b8287f&bp=10000",
+            "other_data": {
+              "cover_loading": false,
+              "error": ""
+            },
+            "thumbnail_uri": "https://p2.a.yximgs.com/upic/2023/07/06/17/BMjAyMzA3MDYxNzA5NTlfMjE2NDIxMzE4MF8xMDcyODM4ODAxNzRfMF8z_B5a1ba6757bde867b37e0db2c4e27b1c2.jpg?tag=1-1689141865-unknown-0-ucvh3qj6zn-6109795ad18d3d93&clientCacheKey=3x6xmbk6j7pfspy.jpg&di=b4b8287f&bp=10000",
+            "material_id": "5196309650792248409",
+            "scene_id": [
+              6,
+              7
+            ]
+          }
+        ],
+        "program_creative": null,
+        "scene_id": [
+          6,
+          7,
+          10
+        ],
+        "campaign_type": "13",
+        "uri": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+        "url": "https://app.kwaixiaodian.com/merchant/shop/detail?id=4928197619180&hyId=kwaishop&layoutType=4",
+        "creativeBuildType": 0,
+        "auto_scene_type": 1,
+        "unique_id": "ce178884-94c4-4358-948a-3a4106536c6d",
+        "liveUserId": 2164213180,
+        "budget_smart_allocation": 1
+      }
+    ]
+  },
+  "use_materials": [
+    {
+      "material_id": "5196309650792248409",
+      "material_name": "34秒-衍生"
+    }
+  ]
+}
