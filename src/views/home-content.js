@@ -1,19 +1,25 @@
 import { Layout } from 'antd';
 import { useState, useReducer, useEffect } from 'react';
-import store from "../store/store";
+import {router, selectStateData, handleRouterPush}from "../store/store";
 
 const { Content } = Layout;
+
+//定时器
+//region data
+
+//##endregion
+
+//region methods
+
+//##endregion
+
 export const HomeContent = (props) => {
     //region State
     const originData = {}
     //##endregion
 
     //region Hook
-    useEffect(() => {
-        store.subscribe(() => {
-            console.log('store change')
-        })
-    })
+
     //##endregion
 
     //region Action
@@ -23,10 +29,10 @@ export const HomeContent = (props) => {
 
     //region View
     return (
-        <Content>
-            <div> { originData.currentRouterPath } </div>
-            <div> { props.routerPath }</div>
-        </Content>
+        <div>
+            <button onClick={() => handleRouterPush()}></button>
+            <div>{ router }</div>
+        </div>
     )
     //##endregion
 }
